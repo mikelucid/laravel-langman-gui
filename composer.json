@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^8.*",
+        "php": "~8",
         "illuminate/translation": "~8.76.2"
     },
     "autoload": {
