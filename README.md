@@ -1,5 +1,8 @@
 <h1 align="center">Laravel Language Manager</h1>
 
+<p align="center">Updated to PHP 8 and Laravel 8</p>
+
+
 <p align="center">
 Langman is a GUI for managing your JSON language files in a Laravel project.
 <br>
